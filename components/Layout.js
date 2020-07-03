@@ -7,7 +7,7 @@ const Layout = (props) => (
     <Head>
       <title>
         {props.title ? `${props.title} | ` : ""}
-        Taqrab Studio
+        Taqarb Studio
       </title>
       {props.description ? (
         <meta name="description" content={props.description} />
